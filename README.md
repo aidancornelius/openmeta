@@ -1,5 +1,4 @@
-# OPENMETA
-## Document management for OS X
+# OPENMETA Document management for OS X
 
 **By Tom Andersen of ironic software**
 
